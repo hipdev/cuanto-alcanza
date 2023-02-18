@@ -1,7 +1,4 @@
 export const Footer = () => {
-    return(
-        <footer>
-            Soy el footer
-        </footer>
-    )
-}
+  return( 
+    <footer>Soy el footer</footer>);
+};
