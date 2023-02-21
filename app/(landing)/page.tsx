@@ -3,6 +3,7 @@
 import { trpc } from "../../utils/trpc"
 import { AppExplained, Footer, Header, Hero } from "./components";
 import {  } from './components/AppExplained';
+import { Privacity } from "./components/Privacity";
 
 export default async function Page() {
 
@@ -11,6 +12,8 @@ export default async function Page() {
       <Header/>
       <Hero/>
       <AppExplained/>
+      <Privacity/>
+      <Footer/>
     </section>
   );
 }
