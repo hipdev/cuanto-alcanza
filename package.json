@@ -7,11 +7,11 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "@tanstack/react-query": "^4.24.6",
-    "@trpc/client": "^10.11.1",
-    "@trpc/next": "^10.11.1",
-    "@trpc/react-query": "^10.11.1",
-    "@trpc/server": "^10.11.1",
+    "@tanstack/react-query": "^4.24.9",
+    "@trpc/client": "^10.12.0",
+    "@trpc/next": "^10.12.0",
+    "@trpc/react-query": "^10.12.0",
+    "@trpc/server": "^10.12.0",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,12 +20,12 @@
     "zod": "^3.20.6"
   },
   "devDependencies": {
-    "@types/node": "^18.13.0",
+    "@types/node": "^18.14.0",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.6",
+    "tailwindcss": "^3.2.7",
     "typescript": "^4.9.5"
   }
 }
